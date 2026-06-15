@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @TeKk-MoRi
-- 👀 I’m interested in .net
-- 🌱 I’m currently learning Micro Services
-- 💞️ I’m looking to collaborate on .net project
-- 📫 How to reach me +989108085413 morteza.nejat966@gmail.com
+.NET Developer and Technical Team Lead with 7+ years of experience building scalable backend systems for high-traffic logistics, CRM, and financial platforms. Skilled in .NET Web API, CQRS, microservices, RabbitMQ, Redis, Oracle, SQL Server, EF Core, Dapper, API integration, and performance optimization. Strong background in production-ready services, stakeholder collaboration, engineering mentorship, and ownership of critical systems.
 
 <!---
 TeKk-MoRi/TeKk-MoRi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
